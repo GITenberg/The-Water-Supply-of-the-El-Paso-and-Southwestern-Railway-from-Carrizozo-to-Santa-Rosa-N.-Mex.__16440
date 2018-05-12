@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6715'
     url: http://www.gutenberg.org/2009/agents/6715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16440#The-Water-Supply-of-the-El-Paso-and-Southwestern-Railway-from-Carrizozo-to-Santa-Rosa-N.-Mex._
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2005-08-05'
 gutenberg_type: Text
